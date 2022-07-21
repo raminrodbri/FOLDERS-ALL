@@ -3,6 +3,6 @@
 
 | پسوند | نام|
 |---:|---:|
-|    |    |
+|   APK | Dictionary of Marine Terms & Abbreviations   |
 |    |    |
 |    |    |
